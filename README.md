@@ -1,3 +1,3 @@
-### whatsapp-manager
+# whatsapp-manager
 
-this is to setup an ai which manage whatsapp
+###this is to setup an ai which manage whatsapp
